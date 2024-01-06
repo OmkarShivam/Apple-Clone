@@ -2,6 +2,7 @@
 
 ![Project Image](landingpage.png)
 
+Click here to visit the page [AppleClonebyOm](https://appleclonebyom.netlify.app/)
 This project is a clone of the Apple website built using HTML, CSS, and JavaScript. It aims to replicate the layout, design, and functionality of the official Apple website as a learning exercise and showcase of front-end development skills.
 
 ## Preview
