@@ -1,6 +1,6 @@
 # Apple Website Clone
 
-![Project Image](link_to_project_image.png)
+![Project Image](landingpage.png)
 
 This project is a clone of the Apple website built using HTML, CSS, and JavaScript. It aims to replicate the layout, design, and functionality of the official Apple website as a learning exercise and showcase of front-end development skills.
 
